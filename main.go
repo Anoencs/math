@@ -4,7 +4,7 @@ Copyright © 2023 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "zmp3/cmd"
+import "github.com/Anoencs/math/cmd"
 
 func main() {
 	cmd.Execute()
